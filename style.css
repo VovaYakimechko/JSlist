@@ -87,8 +87,8 @@ body{
 }
 
 .accord-header{
-    width:300px;
-    height: 7gi0px;
+    width:400px;
+    height: 70px;
     display: flex;
     align-items: center;
     justify-content: space-around;
